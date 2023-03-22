@@ -1,0 +1,82 @@
+C:\Users\RyanRahib\Desktop\XYZ\ADONET_Project\ADONET_Project\bin\Debug\DeviceDB.mdf
+C:\Users\RyanRahib\Desktop\XYZ\ADONET_Project\ADONET_Project\bin\Debug\DeviceDB_log.ldf
+C:\Users\RyanRahib\Desktop\XYZ\ADONET_Project\ADONET_Project\bin\Debug\ADONET_Project.exe.config
+C:\Users\RyanRahib\Desktop\XYZ\ADONET_Project\ADONET_Project\bin\Debug\ADONET_Project.exe
+C:\Users\RyanRahib\Desktop\XYZ\ADONET_Project\ADONET_Project\bin\Debug\ADONET_Project.pdb
+C:\Users\RyanRahib\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.csproj.AssemblyReference.cache
+C:\Users\RyanRahib\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Form1.resources
+C:\Users\RyanRahib\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.MobileDevices.MobileDeviceView.resources
+C:\Users\RyanRahib\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Properties.Resources.resources
+C:\Users\RyanRahib\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.csproj.GenerateResource.cache
+C:\Users\RyanRahib\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.csproj.CoreCompileInputs.cache
+C:\Users\RyanRahib\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.exe
+C:\Users\RyanRahib\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.pdb
+C:\Users\RyanRahib\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.MobileDevices.MobileDeviceAdd.resources
+C:\Users\RyanRahib\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.MobileDevices.MobileDeviceEdit.resources
+C:\Users\RyanRahib\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Customers.AddFormCustomer.resources
+C:\Users\RyanRahib\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Customers.ViewFormCustomer.resources
+C:\Users\RyanRahib\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Customers.EditFormCustomer.resources
+C:\Users\RyanRahib\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Orders.ViewFormOrder.resources
+C:\Users\LAB104-12\Desktop\XYZ\ADONET_Project\ADONET_Project\bin\Debug\DeviceDB.mdf
+C:\Users\LAB104-12\Desktop\XYZ\ADONET_Project\ADONET_Project\bin\Debug\DeviceDB_log.ldf
+C:\Users\LAB104-12\Desktop\XYZ\ADONET_Project\ADONET_Project\bin\Debug\ADONET_Project.exe.config
+C:\Users\LAB104-12\Desktop\XYZ\ADONET_Project\ADONET_Project\bin\Debug\ADONET_Project.exe
+C:\Users\LAB104-12\Desktop\XYZ\ADONET_Project\ADONET_Project\bin\Debug\ADONET_Project.pdb
+C:\Users\LAB104-12\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.csproj.AssemblyReference.cache
+C:\Users\LAB104-12\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\LAB104-12\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Customers.AddFormCustomer.resources
+C:\Users\LAB104-12\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Customers.EditFormCustomer.resources
+C:\Users\LAB104-12\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Customers.ViewFormCustomer.resources
+C:\Users\LAB104-12\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Form1.resources
+C:\Users\LAB104-12\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.MobileDevices.MobileDeviceAdd.resources
+C:\Users\LAB104-12\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.MobileDevices.MobileDeviceEdit.resources
+C:\Users\LAB104-12\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.MobileDevices.MobileDeviceView.resources
+C:\Users\LAB104-12\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Orders.ViewFormOrder.resources
+C:\Users\LAB104-12\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Properties.Resources.resources
+C:\Users\LAB104-12\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.csproj.GenerateResource.cache
+C:\Users\LAB104-12\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.csproj.CoreCompileInputs.cache
+C:\Users\LAB104-12\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.exe
+C:\Users\LAB104-12\Desktop\XYZ\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.pdb
+C:\Users\RyanRahib\Desktop\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.csproj.AssemblyReference.cache
+C:\Users\RyanRahib\Desktop\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Customers.AddFormCustomer.resources
+C:\Users\RyanRahib\Desktop\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Customers.EditFormCustomer.resources
+C:\Users\RyanRahib\Desktop\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Customers.ViewFormCustomer.resources
+C:\Users\RyanRahib\Desktop\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Form1.resources
+C:\Users\RyanRahib\Desktop\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.MobileDevices.MobileDeviceAdd.resources
+C:\Users\RyanRahib\Desktop\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.MobileDevices.MobileDeviceEdit.resources
+C:\Users\RyanRahib\Desktop\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.MobileDevices.MobileDeviceView.resources
+C:\Users\RyanRahib\Desktop\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Orders.AddFromOrder.resources
+C:\Users\RyanRahib\Desktop\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Orders.ViewFormOrder.resources
+C:\Users\RyanRahib\Desktop\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Properties.Resources.resources
+C:\Users\RyanRahib\Desktop\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.csproj.GenerateResource.cache
+C:\Users\RyanRahib\Desktop\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.csproj.CoreCompileInputs.cache
+C:\Users\RyanRahib\Desktop\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.exe
+C:\Users\RyanRahib\Desktop\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.pdb
+C:\Users\RyanRahib\Desktop\1270710\ADONET_Project\ADONET_Project\bin\Debug\DeviceDB.mdf
+C:\Users\RyanRahib\Desktop\1270710\ADONET_Project\ADONET_Project\bin\Debug\DeviceDB_log.ldf
+C:\Users\RyanRahib\Desktop\1270710\ADONET_Project\ADONET_Project\bin\Debug\ADONET_Project.exe.config
+C:\Users\RyanRahib\Desktop\1270710\ADONET_Project\ADONET_Project\bin\Debug\ADONET_Project.exe
+C:\Users\RyanRahib\Desktop\1270710\ADONET_Project\ADONET_Project\bin\Debug\ADONET_Project.pdb
+C:\Users\RyanRahib\Desktop\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Orders.OrderItemAdd.resources
+E:\1270710_Rahib\XML & ADO.NET ALL\Projects\1270710\ADONET_Project\ADONET_Project\bin\Debug\DeviceDB.mdf
+E:\1270710_Rahib\XML & ADO.NET ALL\Projects\1270710\ADONET_Project\ADONET_Project\bin\Debug\DeviceDB_log.ldf
+E:\1270710_Rahib\XML & ADO.NET ALL\Projects\1270710\ADONET_Project\ADONET_Project\bin\Debug\ADONET_Project.exe.config
+E:\1270710_Rahib\XML & ADO.NET ALL\Projects\1270710\ADONET_Project\ADONET_Project\bin\Debug\ADONET_Project.exe
+E:\1270710_Rahib\XML & ADO.NET ALL\Projects\1270710\ADONET_Project\ADONET_Project\bin\Debug\ADONET_Project.pdb
+E:\1270710_Rahib\XML & ADO.NET ALL\Projects\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.csproj.AssemblyReference.cache
+E:\1270710_Rahib\XML & ADO.NET ALL\Projects\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.csproj.SuggestedBindingRedirects.cache
+E:\1270710_Rahib\XML & ADO.NET ALL\Projects\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Customers.AddFormCustomer.resources
+E:\1270710_Rahib\XML & ADO.NET ALL\Projects\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Customers.EditFormCustomer.resources
+E:\1270710_Rahib\XML & ADO.NET ALL\Projects\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Customers.ViewFormCustomer.resources
+E:\1270710_Rahib\XML & ADO.NET ALL\Projects\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Form1.resources
+E:\1270710_Rahib\XML & ADO.NET ALL\Projects\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.MobileDevices.MobileDeviceAdd.resources
+E:\1270710_Rahib\XML & ADO.NET ALL\Projects\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.MobileDevices.MobileDeviceEdit.resources
+E:\1270710_Rahib\XML & ADO.NET ALL\Projects\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.MobileDevices.MobileDeviceView.resources
+E:\1270710_Rahib\XML & ADO.NET ALL\Projects\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Orders.AddFromOrder.resources
+E:\1270710_Rahib\XML & ADO.NET ALL\Projects\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Orders.OrderItemAdd.resources
+E:\1270710_Rahib\XML & ADO.NET ALL\Projects\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Orders.ViewFormOrder.resources
+E:\1270710_Rahib\XML & ADO.NET ALL\Projects\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.Properties.Resources.resources
+E:\1270710_Rahib\XML & ADO.NET ALL\Projects\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.csproj.GenerateResource.cache
+E:\1270710_Rahib\XML & ADO.NET ALL\Projects\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.csproj.CoreCompileInputs.cache
+E:\1270710_Rahib\XML & ADO.NET ALL\Projects\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.exe
+E:\1270710_Rahib\XML & ADO.NET ALL\Projects\1270710\ADONET_Project\ADONET_Project\obj\Debug\ADONET_Project.pdb
